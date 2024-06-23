@@ -3,3 +3,4 @@
   header('Content-type: text/html');
   file_put_contents('data.txt', $data, FILE_APPEND);
 ?>
+<!-- MSU -->
