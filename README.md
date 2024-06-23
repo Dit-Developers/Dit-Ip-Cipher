@@ -1,6 +1,6 @@
 # IP-Cipher ☠
 
-![image](./terminal.pngpng)
+![image](./terminal.png)
 
 ## What is IP-Cipher?
 
